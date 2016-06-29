@@ -76,12 +76,12 @@ footer {
     align-items: center;
 }
 .connect {
-	width: 240px;
+	width: 238px;
 	background-color: #ffffff;
 	margin-top: 40px;
 	border: solid 1px #cccccc;
 	padding: 10px 30px;
-	margin-left: 35px;
+	margin-left: 0px;
 	margin-right: auto;
 	float: left;
 	position: absolute;
@@ -141,7 +141,7 @@ footer {
 	display: inline-block;
 	height: 60px
 	width: 60px;
-	padding: 20px 5px;
+	padding: 20px 4px;
 	float: left;
 	text-decoration: none;
 	}
