@@ -51,6 +51,8 @@ body {
 	float: left;
 	margin-right: 20px;
 	margin-top: 10px;
+	height: 200px;
+	width: 200px;
 }
 .body-text {
 	float: left;
@@ -76,7 +78,7 @@ footer {
     align-items: center;
 }
 .connect {
-	width: 238px;
+	width: 208px;
 	background-color: #ffffff;
 	margin-top: 40px;
 	border: solid 1px #cccccc;
@@ -141,7 +143,7 @@ footer {
 	display: inline-block;
 	height: 60px
 	width: 60px;
-	padding: 20px 4px;
+	padding: 10px 2px;
 	float: left;
 	text-decoration: none;
 	}
@@ -166,6 +168,8 @@ a:hover {
 a:active {
     text-decoration: underline;
     background-color: #4aaaa5;
+    height: 100%
+    width: 100%;
 }
 input[type=text] {
 	width: 100%;
